@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="EMPTY_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/practicas 2025/1/ejer10/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/practicas 2025/2/ejer1/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/practicas 2025/2/ejer2/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/practicas 2025/2/ejer3/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/practicas 2025/2/ejer4/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/practicas 2025/2/ejer5/src" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/practicas 2025/1/ejer10/target" />
+      <excludeFolder url="file://$MODULE_DIR$/practicas 2025/2/ejer1/target" />
+      <excludeFolder url="file://$MODULE_DIR$/practicas 2025/2/ejer2/target" />
+      <excludeFolder url="file://$MODULE_DIR$/practicas 2025/2/ejer3/target" />
+      <excludeFolder url="file://$MODULE_DIR$/practicas 2025/2/ejer4/target" />
+      <excludeFolder url="file://$MODULE_DIR$/practicas 2025/2/ejer5/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
