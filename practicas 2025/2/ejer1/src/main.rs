@@ -35,3 +35,9 @@ fn main() {
 fn es_par( n: i32) -> bool {
     if n%2 == 0 {return true} else {return false};
 }
+
+#[test]
+fn test_numero_par() {
+    assert_eq!(es_par(2), true);
+    assert_eq!(es_par(3), false);
+}
