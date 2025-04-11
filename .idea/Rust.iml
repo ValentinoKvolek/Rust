@@ -9,6 +9,11 @@
       <sourceFolder url="file://$MODULE_DIR$/practicas 2025/2/ejer4/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/practicas 2025/2/ejer5/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/practicas 2025/2/ejer6/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/practicas 2025/2/ejer10/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/practicas 2025/2/ejer11/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/practicas 2025/2/ejer12/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/practicas 2025/2/ejer13/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/practicas 2025/2/ejer14/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/practicas 2025/2/ejer7/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/practicas 2025/2/ejer8/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/practicas 2025/2/ejer9/src" isTestSource="false" />
@@ -19,6 +24,11 @@
       <excludeFolder url="file://$MODULE_DIR$/practicas 2025/2/ejer4/target" />
       <excludeFolder url="file://$MODULE_DIR$/practicas 2025/2/ejer5/target" />
       <excludeFolder url="file://$MODULE_DIR$/practicas 2025/2/ejer6/target" />
+      <excludeFolder url="file://$MODULE_DIR$/practicas 2025/2/ejer10/target" />
+      <excludeFolder url="file://$MODULE_DIR$/practicas 2025/2/ejer11/target" />
+      <excludeFolder url="file://$MODULE_DIR$/practicas 2025/2/ejer12/target" />
+      <excludeFolder url="file://$MODULE_DIR$/practicas 2025/2/ejer13/target" />
+      <excludeFolder url="file://$MODULE_DIR$/practicas 2025/2/ejer14/target" />
       <excludeFolder url="file://$MODULE_DIR$/practicas 2025/2/ejer7/target" />
       <excludeFolder url="file://$MODULE_DIR$/practicas 2025/2/ejer8/target" />
       <excludeFolder url="file://$MODULE_DIR$/practicas 2025/2/ejer9/target" />
